@@ -1,6 +1,6 @@
 # Employee Directory
 
-This project allows the user to post to a chat that anyone else can post to. It also grabs random jokes for the users entertainment.
+This project uses React to display different employee's for a company. Users can sort through employees alphabetically, or by searching for their name via the search bar at the top.
         
 Table of Contents
 * [Installation](#Installation)
@@ -22,7 +22,7 @@ npm install
  npm start
  ```
  
- An alternative is to view the project in browser through our [deployed link](https://project2ru.herokuapp.com/login).
+ An alternative is to view the project in browser through the [deployed link](https://serene-hamlet-73584.herokuapp.com/).
 ## Tech
 This project uses the following technologies:
 * React
